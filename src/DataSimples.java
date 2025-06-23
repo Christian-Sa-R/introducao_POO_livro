@@ -22,10 +22,10 @@ public class DataSimples {
     }
 
     void mostrarDataSimples() {
-        System.out.println("Dia: " + dia);
-        System.out.println("-");
-        System.out.println("Mes: " + mes);
-        System.out.println("-");
-        System.out.println("Ano: " + ano);
+        System.out.print(dia);
+        System.out.print("-");
+        System.out.print(mes);
+        System.out.print("-");
+        System.out.println(ano);
     }
 }
